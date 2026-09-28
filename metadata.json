@@ -1,0 +1,6 @@
+{
+  "name": "CBT EduTech - Bank Soal & Materi Informatika",
+  "description": "Aplikasi CBT interaktif 100 soal lengkap dengan review pembahasan dan materi dari makalah Peraturan TI, Membaca Lateral, dan Mesin Pencari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
